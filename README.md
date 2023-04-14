@@ -2,13 +2,11 @@
 
 <h1 align="left">Hi 👋, I'm Marco Túlio</h1>
 
-- 🔥 Student Science Computer.
+- 🔥 Student FullStack.
 
-- 🔭 I’m currently working at Inter Bank.
+- 🔭 I’m currently working with FullStack at Inter Bank.
 
 - 🌱 I'm currently specializing at [Rocketseat](https://github.com/Rocketseat).
-
-- 🤔 I’m looking for help with FullStack Development.
 
 - ⚡ More experience and hobby: Photograph and Adventures.
 
