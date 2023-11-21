@@ -1,5 +1,9 @@
 # Hi 👋, I'm Marco Túlio de Oliveira Valeriano (He/Him)
-#### 👨🏻‍💻 System Analyst 2 | Frontend, React.js Developer | Backend, Node.js Developer, Java Developer
+#### 👨🏻‍💻 System Analyst 2 | Software Engineer | Frontend React.js NextJS | Backend Node.js
+
+[Resume](https://drive.google.com/file/d/1PGWRP5AwynKhKLBUEb_S_21g1kr8h_oi/view)
+
+[CoverLetter](https://drive.google.com/file/d/1PGWRP5AwynKhKLBUEb_S_21g1kr8h_oi/view)
 
 👋 Hello there! I'm a passionate software developer with a proven track record of crafting efficient software solutions. I'm dedicated to elevating my skills and enthusiasm for software development to new heights.
 
@@ -13,13 +17,6 @@
 
 🤝 If you're interested in exploring potential collaborations or wish to discover more about my professional journey, please don't hesitate to reach out. I'm excited to connect with like-minded professionals, fostering growth and success in the dynamic world of software development.
 
-- 🔥 Student FullStack.
-- 🔭 I’m currently working with FullStack at Inter Bank.
-- 🌱 I'm currently specializing at [Rocketseat](https://github.com/Rocketseat).
-- ⚡ More experience and hobby: Photograph and Adventures.
-- 💬 Supplementary information: studying Science Computer at [PUC Minas](https://estacio.br/)
-
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -37,6 +34,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
+React.js (+6 years), JavaScript (+7 years), HTML5 (+7 years), CSS3 (+7 years), NextJS(+4), TypeScript (+ 3 years), NodeJS(+3), Java(+3), ES6/ES7, API integration, responsive web design, client-side performance optimization, Git (version control), Styled Components, TailwindCSS, SEO, distributed systems, front-end architecture, CI/CD (Continuous Integration/Continuous Deployment), command line usage, CSS Modules, pre-compilers for CSS, VITE, NextJS, data structures, programming fundamentals, DevOps, ModuleFederation, JEST, AWS, Docker and React Native.
+
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -47,15 +46,3 @@
 </p>
 
 <br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/marcotuliovaleriano" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-_marcovaleriano-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/marcotuliovaleriano/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-_marcovaleriano-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
