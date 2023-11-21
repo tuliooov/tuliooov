@@ -1,9 +1,11 @@
 # Hi 👋, I'm Marco Túlio de Oliveira Valeriano (He/Him)
 #### 👨🏻‍💻 System Analyst 2 | Software Engineer | Frontend React.js NextJS | Backend Node.js
 
-[Resume](https://drive.google.com/file/d/1PGWRP5AwynKhKLBUEb_S_21g1kr8h_oi/view)
+[Portfolio](https://tuliooov.github.io/my-portfolio/) - [Resume](https://drive.google.com/file/d/1PGWRP5AwynKhKLBUEb_S_21g1kr8h_oi/view) - [CoverLetter](https://drive.google.com/file/d/1PGWRP5AwynKhKLBUEb_S_21g1kr8h_oi/view)
 
-[CoverLetter](https://drive.google.com/file/d/1PGWRP5AwynKhKLBUEb_S_21g1kr8h_oi/view)
+
+
+
 
 👋 Hello there! I'm a passionate software developer with a proven track record of crafting efficient software solutions. I'm dedicated to elevating my skills and enthusiasm for software development to new heights.
 
