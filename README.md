@@ -43,7 +43,7 @@ React.js (+6 years), JavaScript (+7 years), HTML5 (+7 years), CSS3 (+7 years), N
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=tuliooov&show_icons=true&theme=vision-friendly-dark" alt="tuliooov's stats"/>
+<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=tuliooov&show_icons=true&theme=vision-friendly-dark" alt="tuliooov's stats"/> -->
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliooov&layout=compact&theme=vision-friendly-dark" alt="tuliooov's most languages"/>
 </p>
 
