@@ -1,10 +1,7 @@
 # Hi 👋, I'm Marco Túlio de Oliveira Valeriano (He/Him)
-#### 👨🏻‍💻 System Analyst 2 | Software Engineer | Frontend React.js NextJS | Backend Node.js
+#### 👨🏻‍💻 Software Engineer
 
 [Portfolio](https://tuliooov.github.io/my-portfolio/) - [Resume](https://drive.google.com/file/d/1PGWRP5AwynKhKLBUEb_S_21g1kr8h_oi/view) - [CoverLetter](https://drive.google.com/file/d/1PGWRP5AwynKhKLBUEb_S_21g1kr8h_oi/view)
-
-
-
 
 
 👋 Hello there! I'm a passionate software developer with a proven track record of crafting efficient software solutions. I'm dedicated to elevating my skills and enthusiasm for software development to new heights.
@@ -19,6 +16,7 @@
 
 🤝 If you're interested in exploring potential collaborations or wish to discover more about my professional journey, please don't hesitate to reach out. I'm excited to connect with like-minded professionals, fostering growth and success in the dynamic world of software development.
 
+<!-- 
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -43,8 +41,9 @@ React.js (+6 years), JavaScript (+7 years), HTML5 (+7 years), CSS3 (+7 years), N
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=tuliooov&show_icons=true&theme=vision-friendly-dark" alt="tuliooov's stats"/> -->
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliooov&layout=compact&theme=vision-friendly-dark" alt="tuliooov's most languages"/>
 </p>
 
 <br><br>
+-->
+
